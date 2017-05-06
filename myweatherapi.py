@@ -1,6 +1,8 @@
 import urllib.request
 import json
 
+___author___ = 'D4rkC00d3r'
+
 city = input('Enter a city: ')
 units = "&units=metric"
 api_uri = "http://api.openweathermap.org/data/2.5/weather?q="
