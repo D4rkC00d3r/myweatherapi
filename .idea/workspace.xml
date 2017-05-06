@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24b37e14-6fdc-4733-b52d-0a5bab8d89be" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +19,17 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="850">
-                <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+              <first_editor relative-caret-position="194">
+                <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
                 <folding>
-                  <marker date="1494107281658" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
-                  <marker date="1494107281658" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
-                  <marker date="1494107281658" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
-                  <marker date="1494107281658" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
-                  <marker date="1494107281658" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
-                  <marker date="1494107281658" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
-                  <marker date="1494107281658" expanded="true" signature="1187:1326" ph="[...]" />
-                  <marker date="1494107281658" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
+                  <marker date="1494107475235" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
+                  <marker date="1494107475235" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
+                  <marker date="1494107475235" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
+                  <marker date="1494107475235" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
+                  <marker date="1494107475235" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
+                  <marker date="1494107475235" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
+                  <marker date="1494107475235" expanded="true" signature="1187:1326" ph="[...]" />
+                  <marker date="1494107475235" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -328,6 +329,14 @@
       <option name="presentableId" value="Default" />
       <updated>1494105851665</updated>
     </task>
+    <task id="LOCAL-00001" summary="Typo.">
+      <created>1494107299214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494107299214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -357,6 +366,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Typo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -368,14 +381,14 @@
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding>
-              <marker date="1494107281658" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494107281658" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
-              <marker date="1494107281658" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
-              <marker date="1494107281658" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
-              <marker date="1494107281658" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
-              <marker date="1494107281658" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
-              <marker date="1494107281658" expanded="true" signature="1187:1326" ph="[...]" />
-              <marker date="1494107281658" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
+              <marker date="1494107475235" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494107475235" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
+              <marker date="1494107475235" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
+              <marker date="1494107475235" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
+              <marker date="1494107475235" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
+              <marker date="1494107475235" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
+              <marker date="1494107475235" expanded="true" signature="1187:1326" ph="[...]" />
+              <marker date="1494107475235" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -405,14 +418,14 @@
           <first_editor relative-caret-position="1440">
             <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
             <folding>
-              <marker date="1494107281658" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494107281658" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
-              <marker date="1494107281658" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
-              <marker date="1494107281658" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
-              <marker date="1494107281658" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
-              <marker date="1494107281658" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
-              <marker date="1494107281658" expanded="true" signature="1187:1326" ph="[...]" />
-              <marker date="1494107281658" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
+              <marker date="1494107475235" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494107475235" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
+              <marker date="1494107475235" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
+              <marker date="1494107475235" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
+              <marker date="1494107475235" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
+              <marker date="1494107475235" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
+              <marker date="1494107475235" expanded="true" signature="1187:1326" ph="[...]" />
+              <marker date="1494107475235" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -431,17 +444,17 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="850">
-            <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <first_editor relative-caret-position="194">
+            <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
             <folding>
-              <marker date="1494107281658" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
-              <marker date="1494107281658" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
-              <marker date="1494107281658" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
-              <marker date="1494107281658" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
-              <marker date="1494107281658" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
-              <marker date="1494107281658" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
-              <marker date="1494107281658" expanded="true" signature="1187:1326" ph="[...]" />
-              <marker date="1494107281658" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
+              <marker date="1494107475235" expanded="true" signature="566:1328" ph="{&quot;result&quot;: 200...}" />
+              <marker date="1494107475235" expanded="true" signature="669:693" ph="{&quot;all&quot;: 0...}" />
+              <marker date="1494107475235" expanded="true" signature="706:863" ph="{&quot;id&quot;: 5091...}" />
+              <marker date="1494107475235" expanded="true" signature="902:952" ph="{&quot;lat&quot;: 51.51...}" />
+              <marker date="1494107475235" expanded="true" signature="966:1014" ph="{&quot;speed&quot;: 3.6...}" />
+              <marker date="1494107475235" expanded="true" signature="1028:1154" ph="{&quot;temp&quot;: 10.82...}" />
+              <marker date="1494107475235" expanded="true" signature="1187:1326" ph="[...]" />
+              <marker date="1494107475235" expanded="true" signature="1197:1320" ph="{&quot;id&quot;: 721...}" />
             </folding>
           </first_editor>
           <second_editor />

@@ -56,7 +56,7 @@ The json below is returned from the OpenWeatherMaps server and I add some format
  * Example based on the city being set to London.
 
 ## What API am I using and why?
-I am using the OpenWeatherMap API for Current weather data. I chose this as it forced me to make a developer
+I am using the OpenWeatherMap API for current weather data. I chose this as it forced me to make a developer
 account and obtain a API key. I then had to learn how to use the key, I also liked the returned json data as it had nested
 objects that I would need to drill down into to construct the data for the user. https://openweathermap.org/current 
 
