@@ -1,0 +1,42 @@
+{
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1494103800,
+    "visibility": 9000,
+    "cod": 200,
+    "wind": {
+        "deg": 350,
+        "speed": 3.6
+    },
+    "id": 2643743,
+    "weather": [
+        {
+            "main": "Haze",
+            "icon": "50n",
+            "id": 721,
+            "description": "haze"
+        }
+    ],
+    "main": {
+        "temp_min": 9,
+        "temp_max": 12,
+        "humidity": 76,
+        "pressure": 1015,
+        "temp": 10.81
+    },
+    "coord": {
+        "lon": -0.13,
+        "lat": 51.51
+    },
+    "base": "stations",
+    "sys": {
+        "country": "GB",
+        "id": 5091,
+        "type": 1,
+        "message": 0.0029,
+        "sunrise": 1494044494,
+        "sunset": 1494099216
+    },
+    "name": "London"
+}
