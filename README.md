@@ -71,6 +71,7 @@ then to run myweatherapi simply type;
 python3 myweatherapi.py
 ```
 Below is an example of the console output.
+![myweatherconsole](https://cloud.githubusercontent.com/assets/17799879/25776136/e6afa9ce-32ad-11e7-9445-87bcfc34c810.png)
 
 ## Additional notes
 1. Each time you run the script check the myweatherapidata.json file to see it change depending on the city entered.
