@@ -1,5 +1,5 @@
 # Introduction
-"My Weather API" is a simple tool made in Python3 to check the weather form the OpenWeatherMaps database.
+"My Weather API" is a simple tool made in Python3 to check the weather from the OpenWeatherMaps database.
 
 ## Why I made it?
 I am learning how to use Application Programming Interface's (API) within Python and how to handle the returned data in json.
